@@ -1,0 +1,5 @@
+break main
+break *0x000106e6
+break *0x000106f2
+break *0x00010704
+
